@@ -13,6 +13,7 @@ However, we strongly encourage submissions to be made in LaTeX format for qualit
 Here are some videos that may be helpful in order to use overleaf.com as the editor:
 
 Upload .zip in Overleaf: www.youtube.com/watch?v=ubVHUtT5nlE
+
 First steps in Overleaf: www.youtube.com/watch?v=_PzDLFJHO3E
 
 For more informations: http://www.eamc.lncc.br/
@@ -32,6 +33,7 @@ No entanto, recomendamos fortemente que as submissões sejam feitas no formato L
 Aqui estão alguns vídeos que podem ser úteis para usar o overleaf.com como editor:
 
 Upload de .zip no Overleaf: www.youtube.com/watch?v=ubVHUtT5nlE
+
 Primeiros passos no Overleaf: www.youtube.com/watch?v=_PzDLFJHO3E
 
 Para obter mais informações: http://www.eamc.lncc.br/
