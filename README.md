@@ -16,6 +16,8 @@ Upload .zip in Overleaf: www.youtube.com/watch?v=ubVHUtT5nlE
 
 First steps in Overleaf: www.youtube.com/watch?v=_PzDLFJHO3E
 
+Note 3: If there is trouble with the main page, you can submit your work here: https://forms.gle/WRHsBYhfuf1XrQky9
+
 For more informations: http://www.eamc.lncc.br/
 
 PORTUGUÊS:
@@ -36,4 +38,7 @@ Upload de .zip no Overleaf: www.youtube.com/watch?v=ubVHUtT5nlE
 
 Primeiros passos no Overleaf: www.youtube.com/watch?v=_PzDLFJHO3E
 
+Nota 3: Se houver problemas com a página principal, você pode enviar seu trabalho aqui: https://forms.gle/WRHsBYhfuf1XrQky9
+
 Para obter mais informações: http://www.eamc.lncc.br/
+
